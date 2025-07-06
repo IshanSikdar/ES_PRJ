@@ -1,1 +1,4 @@
-# ES_PRJ
+The traction inverter is a core component of electric vehicles (EVs), responsible for converting the DC power from the battery into AC power required by the motor. Its performance directly impacts the overall efficiency, reliability, and operational range of the EV. However, traction inverters operate under dynamic and variable conditions, such as fluctuating load demands, thermal stresses, and regenerative braking. Existing evaluation methods for traction inverters are often fragmented, focusing on isolated performance aspects like power efficiency or thermal stability, without considering the system's holistic performance in real-world scenarios. Furthermore, these methods lack standardization, making it challenging to compare results across different inverter designs or testing setups.
+
+Thus, there is a critical need to design and implement a comprehensive, standardized evaluation framework that can reliably assess the efficiency, fault tolerance, thermal behavior, and dynamic performance of traction inverters under diverse operating conditions.
+
